@@ -37,7 +37,7 @@ Lifestyle is India’s leading fashion destination for the latest trends. Part o
 | 5 | Dummy payment using UPI-Paytm |
 
 **Steps for site functionality**
-  --
+  ---
   
   | Serial No            | Step                                                              |
 | ----------------- | ------------------------------------------------------------------ |
